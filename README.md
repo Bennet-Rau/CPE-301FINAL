@@ -1,5 +1,5 @@
 # CPE-301FINAL
 CPE Final project 
-MEMBERS: Bennet Rau, Oliver Zolan, Sutter Reynolds, Connor Mercs
+MEMBERS: Bennet Rau, Oliver Zolan, Sutter Reynolds, Conner Marks
 
-link to youtube video walk through: https://youtu.be/CASWqYyRTdo
+link to youtube video walk through: https://youtu.be/eDe6ptSnn1Y
